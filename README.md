@@ -4,7 +4,7 @@ This is what I use to demonstrate the <a href="https://marketplace.visualstudio.
 <h3>The files included are as follows:</h3>
 
 
-  Cool Site.html (used with the <a href="https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer">Live Server Extension</a> to demonstrate the port forwarding ability
+  Cool Site.html (used with the <a href="https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer">Live Server Extension</a> to demonstrate the port forwarding ability)
   
   Edit This.txt (just a text file to edit)
   
